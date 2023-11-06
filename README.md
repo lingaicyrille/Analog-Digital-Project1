@@ -1,10 +1,8 @@
 <h1>Analog & Digital Project1</h1>
 
 
-
 <h2>Description</h2>
 This presentation provided a basic understanding of the general principles that govern analogue and digital communications systems such as traditional analog communication techniques including AM, FM and modern digital systems techniques such as ASK, FSK and BPSK
-![image](https://github.com/lingaicyrille/Analog-Digital-Project1/assets/131199662/7585b34b-4f61-46c6-8f84-91982a64ba22)
 
 <br />
 
