@@ -2,7 +2,11 @@
 
 
 <h2>Description</h2>
-This project provides a basic understanding of the general principles that govern analogue and digital communications systems such as traditional analog communication techniques including AM, FM and modern digital systems techniques such as ASK, FSK and BPSK
+This project provides a basic understanding of the general principles that govern analogue and digital communications systems such as traditional analog communication techniques including AM, FM and modern digital systems techniques such as ASK, FSK and BPSK. In all these digital modulation techniques our analog signal is changed into binary numbers at each of our set frequencies(sample rates) the binary 1's and 0's are then transmitted to the intended recipient and converted back to the original signal form.
+Shift Keying-Data modulation technique which allows you to transmit signals as binary inputs. 
+FSK- In frequency shift keying, the frequency of the carrier signal varies with respect to the changes by the digital signal.
+ASK- Amplitude of the carrier wave which is altered in accordance with the modulating signal.
+BPSK- Referred to as the simplest form of phase shift keying using two signals separated by 180 degrees. Phase shift keying data is transmitted by a continuous reversal of the phase.
 
 <br />
 
