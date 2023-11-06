@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This presentation provided a basic understanding of the general principles that govern analogue and digital communications systems such as traditional analog communication techniques including AM, FM and modern digital systems techniques such as ASK, FSK and BPSK
+This project provides a basic understanding of the general principles that govern analogue and digital communications systems such as traditional analog communication techniques including AM, FM and modern digital systems techniques such as ASK, FSK and BPSK
 
 <br />
 
