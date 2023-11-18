@@ -48,11 +48,13 @@ Sampling:  <br/>
 <img src="https://imgur.com/ibplRZz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-FSK(Modulation and Demodulation Signal):  <br/>
+Frequency Shift Keying (FSK) (Modulation and Demodulation Signal):  <br/>
+It is a digital modulation scheme used in communication systems to transmit digital data over a carrier wave by varying the frequency of the carrier signal. In FSK, the binary data is represented by different frequencies. FSK is commonly used in various communication systems, including radio frequency communication, data modems, and wireless technologies. It is known for its simplicity and robustness against certain types of noise. FSK can be less susceptible to amplitude-based noise compared to other modulation schemes like Amplitude Shift Keying (ASK).
 <img src="https://imgur.com/Et9EL51.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-ASK:  <br/>
+Amplitude Shift Keying (ASK):  <br/>
+ASK is used to transmit digital data over a communication channel by varying certain properties of a carrier wave. ASK is relatively simple and easy to implement. It is used in various communication systems, including optical fiber communication and some wireless communication applications. One disadvantage of ASK is that it may be more susceptible to noise and interference compared to some other modulation schemes, such as Phase Shift Keying (PSK) or Frequency Shift Keying (FSK).
 <img src="https://imgur.com/k9woPhR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
