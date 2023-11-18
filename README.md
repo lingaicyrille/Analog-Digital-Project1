@@ -35,16 +35,29 @@ Single Side Band:  <br/>
 <img src="https://imgur.com/WjJ6gr0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Analog Modulation Signal (AM):  <br/>
+<img src="https://imgur.com/sJjHQsf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Frequency Modulation (FM):  <br/>
+<img src="https://imgur.com/Kgd8UGM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sampling:  <br/>
+<img src="https://imgur.com/ibplRZz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+FSK(Modulation and Demodulation Signal):  <br/>
+<img src="https://imgur.com/Et9EL51.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ASK:  <br/>
+<img src="https://imgur.com/k9woPhR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+BPSK:  <br/>
+<img src="https://imgur.com/Kcv0lXE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
