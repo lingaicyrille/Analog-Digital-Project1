@@ -56,7 +56,10 @@ ASK:  <br/>
 <img src="https://imgur.com/k9woPhR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-BPSK:  <br/>
+Binary Phase Shift Keying (BPSK):  <br/>
+BPSK is commonly used in various communication systems, including wireless communication, satellite communication, and digital audio broadcasting. It is known for its simplicity and efficiency in transmitting binary data. One advantage of BPSK is that it is less susceptible to errors caused by noise or interference compared to some other modulation schemes. However, it may not be as bandwidth-efficient as more advanced modulation schemes in certain situations. BPSK is used to transmit binary data, where 0 and 1 are represented by different phases of the carrier signal. In BPSK, the carrier signal's phase is shifted by 180 degrees (π radians) for one of the binary values (usually 1), and there is no phase shift for the other binary value (usually 0). This means that the phase of the carrier wave changes between two states to represent the binary information. For binary 0: The carrier wave remains in its original phase.
+For binary 1: The carrier wave's phase is inverted by 180 degrees. 
+
 <img src="https://imgur.com/Kcv0lXE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
