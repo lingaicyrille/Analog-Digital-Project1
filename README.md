@@ -6,7 +6,7 @@ This project provides a basic understanding of the general principles that gover
 Shift Keying-Data modulation technique which allows you to transmit signals as binary inputs. 
 FSK- In frequency shift keying, the frequency of the carrier signal varies with respect to the changes by the digital signal.
 ASK- Amplitude of the carrier wave which is altered in accordance with the modulating signal.
-BPSK- Referred to as the simplest form of phase shift keying using two signals separated by 180 degrees. Phase shift keying data is transmitted by a continuous reversal of the phase.
+BPSK- Referred to as the simplest form of phase shift keying using two signals separated by 180 degrees. Phase shift keying data is transmitted by a continuous reversal of the phase. In each of these step, we modulated and demolulated the signal.
 
 <br />
 
