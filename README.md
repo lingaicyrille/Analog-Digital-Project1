@@ -23,16 +23,16 @@ Original Signal: <br/>
 <img src="https://i.imgur.com/kjrFwjk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Main Signal:  <br/>
+<img src="https://imgur.com/pd42Co2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Double Side Band: <br/>
+<img src="https://imgur.com/X730jZM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Single Side Band:  <br/>
+<img src="https://imgur.com/WjJ6gr0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
